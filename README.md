@@ -21,7 +21,7 @@ You can either upload the `.py` file or `.ipynb` file in the cloud environment a
 
 ## Execution
 
-To plan and execute the desired operations and Python codes I utilised Jupyter Notebook to make this journey interactive. Please follow this [Notebook](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_datathon_19_easy_01.ipynb) file to see how the operations been performed and their outputs.
+To plan and execute the desired operations and Python codes I utilised Jupyter Notebook to make this journey interactive. Please follow this [Notebook](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_datathon_19_easy_02.ipynb) file to see how the operations been performed and their outputs.
 
 ```
 https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_datathon_19_easy_02.ipynb
