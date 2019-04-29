@@ -21,10 +21,10 @@ You can either upload the `.py` file or `.ipynb` file in the cloud environment a
 
 ## Execution
 
-To plan and execute the desired operations and Python codes I utilised Jupyter Notebook to make this journey interactive. Please follow this [Notebook](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_datathon_19_easy_02.ipynb) file to see how the operations been performed and their outputs.
+To plan and execute the desired operations and Python codes I utilised Jupyter Notebook to make this journey interactive. Please follow this [Notebook](https://github.com/rafatrock/axiata-robi-datathon-19-easy-02/blob/master/robi_datathon_19_easy_02.ipynb) file to see how the operations been performed and their outputs.
 
 ```
-https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_datathon_19_easy_02.ipynb
+https://github.com/rafatrock/axiata-robi-datathon-19-easy-02/blob/master/robi_datathon_19_easy_02.ipynb
 ```
 
 ## Output
@@ -32,15 +32,7 @@ https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_da
 The output is a table with two column to display the desired outcomes.
 
 ```
-+--------------------------------+-----------------+
-|User                            |TotalRevenue_USD |
-+--------------------------------+-----------------+
-|711582466cb593b5c31a561e3fb8754f|918.0708735522023|
-|1d14aa68494db76eea8640ee2e4bfd32|910.5638393486429|
-|5313925c9e43ff9dbbb9a4ac9d5f75ef|861.8608024104357|
-|d08f4b304529a54d43b2dc5afba01811|763.6768256830246|
-|ef5dd3752d155c2bae352f7ed72f968d|744.4222285995457|
-+--------------------------------+-----------------+
+blank
 ```
 ## Contributing
 
