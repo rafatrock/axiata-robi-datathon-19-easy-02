@@ -32,7 +32,15 @@ https://github.com/rafatrock/axiata-robi-datathon-19-easy-02/blob/master/robi_da
 The output is a table with two column to display the desired outcomes.
 
 ```
-blank
++-------------------------------------+------------+
+|Model                                |Total Bought|
++-------------------------------------+------------+
+|GURU MUSIC II (SM-B310E)             |406457      |
+|GALAXY J2 (SM-J200H)                 |225834      |
+|GALAXY GRAND PRIME DUOS (SM-G532F DS)|220640      |
+|105, 1050 (RM-908)                   |194412      |
+|SYMPHONY B12, D115                   |191265      |
++-------------------------------------+------------+
 ```
 ## Contributing
 
